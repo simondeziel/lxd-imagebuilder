@@ -4,7 +4,7 @@ GO111MODULE=on
 GOTOOLCHAIN=local
 export GOTOOLCHAIN
 SPHINXENV=.sphinx/venv/bin/activate
-GOMIN=1.26.2
+GOMIN=1.26.7
 
 .PHONY: default
 default:
